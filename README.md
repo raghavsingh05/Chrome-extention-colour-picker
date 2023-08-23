@@ -13,3 +13,4 @@ A chrome extension to check the color of  any object and gives the HEX code of t
 
 ![Screenshot 2023-08-10 220212](https://github.com/raghavsingh05/Chrome-extention-colour-picker/assets/113702274/652597b0-c819-4c7f-aac3-6dea23825118)
 The above images will show the interface of the extension. 
+It will give the hex code of the color
